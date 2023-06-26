@@ -1,0 +1,16 @@
+.menu {
+  background: rgb(247, 172, 172);
+  flex: 0 0 80px;
+  height: 100%;
+}
+
+.link {
+  color: black;
+  text-decoration: none;
+  margin: 10px;
+}
+
+.link_active {
+  color: green;
+  text-decoration: underline;
+}

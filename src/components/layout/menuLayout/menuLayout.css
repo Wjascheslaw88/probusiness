@@ -1,0 +1,17 @@
+.container {
+  display: flex;
+  gap: 5px;
+  overflow: hidden;
+  max-width: 1000px;
+  margin: auto;
+  height: 100%;
+}
+
+.nav {
+  flex: 0 0 50px;
+}
+
+.content {
+  flex: 1 1 auto;
+  overflow: auto;
+}
